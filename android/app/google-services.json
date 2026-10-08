@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "3036309834",
+    "project_id": "housetest-55d1b",
+    "storage_bucket": "housetest-55d1b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3036309834:android:c04ac2d4c3af5561d3b9b3",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfvLJ_vdqylSNlRA58RioD5_2v7ymE5H8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
